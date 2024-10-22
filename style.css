@@ -1,0 +1,9 @@
+button{
+    background-color: teal;
+    padding: 20px;
+}
+@media (orientation:portrait) {
+    button{
+        background-color: orange;
+    }
+}
